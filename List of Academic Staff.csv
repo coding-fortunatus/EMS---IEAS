@@ -1,0 +1,600 @@
+Lecturer Code,Lecturer Name,Lecturer Dept,Lecturer Status,Exam Type,Invigilation Type
+LEC 1,"Aako, O. L. ",MS,lecturer,CBE,INVIGILATOR
+LEC 2,"Abati, M. O. ",MSC,lecturer,PBE,INVIGILATOR
+LEC 3,"Abdul, A. E. Mrs.",CS,lecturer,CBE,INVIGILATOR
+LEC 4,"Abdulhamid, I. G. ",EE,lecturer,PBE,INVIGILATOR
+LEC 5,"Abdulraheem, A. Y.",MCE,lecturer,PBE,INVIGILATOR
+LEC 6,"Abdussalam, F. O. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 7,"Abiala, A. F. Mrs.",MKT,lecturer,PBE,INVIGILATOR
+LEC 8,"Abiala, O. M.",INC,lecturer,PBE,INVIGILATOR
+LEC 9,"Abiaziem, C. V. Dr. ( Mrs.)",SLT,lecturer,PBE,SUPERVISOR
+LEC 10,"Abiaziem, F. U. ",MKT,lecturer,PBE,INVIGILATOR
+LEC 11,"Abioye, G. A. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 12,"Aboloje, A. C. ",ME,lecturer,PBE,INVIGILATOR
+LEC 13,"Abubakar, A. I.",AC,lecturer,PBE,INVIGILATOR
+LEC 14,"Abubakar, S. A.",URP,lecturer,PBE,INVIGILATOR
+LEC 15,"Adamu, A. D. ",CTE,lecturer,CBE,INVIGILATOR
+LEC 16,"Adamu, A. M. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 17,"Adaradohun, O. S. Mrs.",SG,lecturer,PBE,INVIGILATOR
+LEC 18,"Adaramola, O. J. Engr. ",CTE,lecturer,CBE,SUPERVISOR
+LEC 19,"Adeala, A. J. Engr.",CE,lecturer,PBE,INVIGILATOR
+LEC 20,"Adebamiwi, O. D. ",BF,lecturer,PBE,INVIGILATOR
+LEC 21,"Adebanji, S. A. ",EE,lecturer,PBE,INVIGILATOR
+LEC 22,"Adebanjo, A. O.",MCE,lecturer,PBE,INVIGILATOR
+LEC 23,Adebayo Adelaja M.,SLT,lecturer,PBE,INVIGILATOR
+LEC 24,"Adebayo, D. A. ",BT,lecturer,PBE,INVIGILATOR
+LEC 25,"Adebayo, F. A.",OTM,lecturer,PBE,INVIGILATOR
+LEC 26,"Adebayo, I. T. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 27,"Adebayo, J. A. ",HMT,lecturer,PBE,INVIGILATOR
+LEC 28,"Adebesin, A. A. Engr.",ME,lecturer,PBE,INVIGILATOR
+LEC 29,"Adebesin, O. O.",AC,lecturer,PBE,INVIGILATOR
+LEC 30,"Adebiyi, R. A. Miss",NUD,lecturer,PBE,INVIGILATOR
+LEC 31,"Adebowale, O. J. Dr.",FT,lecturer,PBE,SUPERVISOR
+LEC 32,"Adeboye, L. E. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 33,"Adedamola, W. A.",EMV,lecturer,PBE,INVIGILATOR
+LEC 34,"Adedigba, R. A. Mrs.",HMT,lecturer,PBE,INVIGILATOR
+LEC 35,"Adedokun, A. M. Surv.",SG,lecturer,PBE,SUPERVISOR
+LEC 36,"Adegbenro, S. A. Engr. ( Dr.)",ME,lecturer,PBE,SUPERVISOR
+LEC 37,"Adegbesan, O. O. ",CE,lecturer,PBE,INVIGILATOR
+LEC 38,"Adegbite, D. M. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 39,"Adegbite-Badmus, T. A. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 40,"Adegbola, A. J.",URP,lecturer,PBE,INVIGILATOR
+LEC 41,"Adegbola, O. O. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 42,"Adegboye, O. J. ",CS,lecturer,CBE,SUPERVISOR
+LEC 43,"Adegboyo, O. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 44,"Adekanmbi, A. Y.",MS,lecturer,CBE,INVIGILATOR
+LEC 45,"Adekoya, A. J. ",AC,lecturer,PBE,INVIGILATOR
+LEC 46,"Adekunle, K. J. Mrs.",AC,lecturer,PBE,INVIGILATOR
+LEC 47,"Adelakun, N. O.",EE,lecturer,PBE,INVIGILATOR
+LEC 48,"Adelakun, N.O",EE,lecturer,PBE,INVIGILATOR
+LEC 49,"Adelani, A. A. ",OTM,lecturer,PBE,INVIGILATOR
+LEC 50,"Adeleye, A. D. ",ME,lecturer,PBE,INVIGILATOR
+LEC 51,"Adeleye, A. J. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 52,"Adeleye, O. E. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 53,"Adelusi, I. A. Mrs.",TAX,lecturer,PBE,INVIGILATOR
+LEC 54,"Ademeso, J. O. ",BA,lecturer,PBE,INVIGILATOR
+LEC 55,"Ademola, E. A. ",AC,lecturer,PBE,INVIGILATOR
+LEC 56,"Adenaiya, O. A. ",BT,lecturer,PBE,INVIGILATOR
+LEC 57,"Adenigba, A. A. Engr.",AGT,lecturer,PBE,INVIGILATOR
+LEC 58,"Adeniji, A. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 59,"Adeniji, A. T.",ARD,lecturer,PBE,INVIGILATOR
+LEC 60,"Adeniji, O. A. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 61,"Adenijo,S.O.N.",CS,lecturer,CBE,INVIGILATOR
+LEC 62,"Adeniyi, O. A. ",ARC,lecturer,PBE,INVIGILATOR
+LEC 63,"Adeola, A. A.",MCE,lecturer,PBE,INVIGILATOR
+LEC 64,"Adeolu, R. O. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 65,"Adeosun, F. F. Mrs.",NUD,lecturer,PBE,INVIGILATOR
+LEC 66,"Adeoye, A. C. Mrs.",OTM,lecturer,PBE,INVIGILATOR
+LEC 67,"Adeoye, K. T. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 68,"Adepoju, A. B. ",NUD,lecturer,PBE,INVIGILATOR
+LEC 69,"Aderibigbe, F. O. Miss",INS,lecturer,PBE,INVIGILATOR
+LEC 70,"Adesanmi, M. A. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 71,"Adesanya, A. F.",CS,lecturer,CBE,INVIGILATOR
+LEC 72,"Adeshina, A. O. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 73,"Adesi,A.B.",CS,lecturer,CBE,INVIGILATOR
+LEC 74,"Adesina, E. M. Mrs.",OTM,lecturer,PBE,INVIGILATOR
+LEC 75,"Adesioye, A. O.",MT,lecturer,PBE,INVIGILATOR
+LEC 76,"Adesipe, T. I. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 77,"Adetola, A.O",AC,lecturer,PBE,INVIGILATOR
+LEC 78,"Adetona, O. A. ",ARC,lecturer,PBE,INVIGILATOR
+LEC 79,"Adetona, Z. A. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 80,"Adetula, O. A. ",NUD,lecturer,PBE,INVIGILATOR
+LEC 81,"Adetunji, O. A. ",ME,lecturer,PBE,INVIGILATOR
+LEC 82,"Adewale, A.A.",PA,lecturer,PBE,INVIGILATOR
+LEC 83,"Adewara, M. B. Surv.",SG,lecturer,PBE,SUPERVISOR
+LEC 84,"Adewole, A. A.",SLT,lecturer,PBE,INVIGILATOR
+LEC 85,"Adewoyin, O.O.",AC,lecturer,PBE,INVIGILATOR
+LEC 86,"Adewunmi, H. O. Miss",NUD,lecturer,PBE,INVIGILATOR
+LEC 87,"Adewunmi, K. A. ",BF,lecturer,PBE,INVIGILATOR
+LEC 88,"Adeyemi, A. A. ",MSC,lecturer,PBE,INVIGILATOR
+LEC 89,"Adeyemo, I. M. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 90,"Adeyemo, M. O. ",TAX,lecturer,PBE,INVIGILATOR
+LEC 91,"Adeyeye, A. O.",MT,lecturer,PBE,INVIGILATOR
+LEC 92,"Adio, A. A. ",CS,lecturer,CBE,INVIGILATOR
+LEC 93,"Adisa, T. ",INS,lecturer,PBE,INVIGILATOR
+LEC 94,"Adisa, T. A.",INS,lecturer,PBE,INVIGILATOR
+LEC 95,"Adiyeloja, I. T. Engr.",ME,lecturer,PBE,INVIGILATOR
+LEC 96,"Afolayan, A. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 97,"Afolayan, O. A. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 98,"Afolayan, O. T. Dr.",GNS,lecturer,PBE,SUPERVISOR
+LEC 99,"Afunlehin, O. A. ",EE,lecturer,PBE,INVIGILATOR
+LEC 100,"Afuye, K. T.",AC,lecturer,PBE,INVIGILATOR
+LEC 101,"Afuye, O. F. Mrs.",HMT,lecturer,PBE,INVIGILATOR
+LEC 102,"Afuye, O. O. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 103,"Agbeyangi, B. A. Dr.",AC,lecturer,PBE,SUPERVISOR
+LEC 104,"Agbolade, O. A. ",MS,lecturer,CBE,INVIGILATOR
+LEC 105,"Agbongiaban, F. E.",AGT,lecturer,PBE,INVIGILATOR
+LEC 106,"Agunlejika, A. A. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 107,"Aikulola, O. A. Engr.",CE,lecturer,PBE,INVIGILATOR
+LEC 108,"Aiyegbajeje, A. A.Arch.",ARC,lecturer,PBE,INVIGILATOR
+LEC 109,"Aiyelabowo, O. P. Engr.  Dr.",EE,lecturer,PBE,SUPERVISOR
+LEC 110,"Ajai, I. O.",SLT,lecturer,PBE,INVIGILATOR
+LEC 111,"Ajala, R. T. ",TPM,lecturer,PBE,INVIGILATOR
+LEC 112,"Ajani, S.A.",AC,lecturer,PBE,INVIGILATOR
+LEC 113,"Ajao, A. E. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 114,"Ajao, C. C. Mrs.",AC,lecturer,PBE,INVIGILATOR
+LEC 115,"Ajayi, A. A.",SLT,lecturer,PBE,INVIGILATOR
+LEC 116,"Ajayi, A. A. ",FT,lecturer,PBE,INVIGILATOR
+LEC 117,"Ajayi, A. M. Miss ",GNS,lecturer,PBE,INVIGILATOR
+LEC 118,"Ajayi, B. O. Mrs. ",TAX,lecturer,PBE,INVIGILATOR
+LEC 119,"Ajayi, O. T. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 120,"Ajayi, R. M. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 121,"Ajayi, S. O.Tpl. ",URP,lecturer,PBE,INVIGILATOR
+LEC 122,"Ajayi,O. O.",ARD,lecturer,PBE,INVIGILATOR
+LEC 123,"Ajetunmobi, D. T. Engr.",MCE,lecturer,PBE,INVIGILATOR
+LEC 124,"Ajewole, O. B.",AC,lecturer,PBE,INVIGILATOR
+LEC 125,"Ajewole, O.O.",AC,lecturer,PBE,INVIGILATOR
+LEC 126,"Ajibade, O. E. ",PA,lecturer,PBE,INVIGILATOR
+LEC 127,"Ajibade, T. E. Miss",GNS,lecturer,PBE,INVIGILATOR
+LEC 128,"Ajibode, A. E.",INC,lecturer,PBE,INVIGILATOR
+LEC 129,"Ajibode, C. P. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 130,"Ajibode, I. A. ",MS,lecturer,CBE,INVIGILATOR
+LEC 131,"Ajibode, O. O.",FT,lecturer,PBE,INVIGILATOR
+LEC 132,"Ajibodu, F. A. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 133,"Ajibola, W. A. Engr.",WEC,lecturer,PBE,INVIGILATOR
+LEC 134,"Ajibose, T. S.",MCE,lecturer,PBE,INVIGILATOR
+LEC 135,"Ajobiewe, A. M.",FT,lecturer,PBE,INVIGILATOR
+LEC 136,"Ajose-Ismail, B. M. ",CS,lecturer,CBE,INVIGILATOR
+LEC 137,"Akanbi, O. O. ",MS,lecturer,CBE,INVIGILATOR
+LEC 138,"Akande-Adedeji, O. T. Mrs.",ARD,lecturer,PBE,INVIGILATOR
+LEC 139,"Akanni, A. L.",ARC,lecturer,PBE,INVIGILATOR
+LEC 140,"Akerele, B. S.",INS,lecturer,PBE,INVIGILATOR
+LEC 141,"Akibo, K. O. Miss",TPM,lecturer,PBE,INVIGILATOR
+LEC 142,"Akinade, O. L.",ARD,lecturer,PBE,INVIGILATOR
+LEC 143,"Akinbo, R. Y.",MS,lecturer,CBE,INVIGILATOR
+LEC 144,"Akinboboye, O. M.",PA,lecturer,PBE,INVIGILATOR
+LEC 145,"Akinbola, K. B. Dr. ",EMV,lecturer,PBE,SUPERVISOR
+LEC 146,"Akinbola, S. M. Mrs.",CS,lecturer,CBE,INVIGILATOR
+LEC 147,"Akinde, K. M.",NUD,lecturer,PBE,INVIGILATOR
+LEC 148,"Akinde, M. A. Dr.",TAX,lecturer,PBE,SUPERVISOR
+LEC 149,"Akinde,O.",GNS,lecturer,PBE,INVIGILATOR
+LEC 150,"Akindele, L. I. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 151,"Akingbade, L. O. Mrs.",CTE,lecturer,CBE,INVIGILATOR
+LEC 152,"Akinkurolere, O. O.  Engr.  Dr. ( Mrs.)",CE,lecturer,PBE,SUPERVISOR
+LEC 153,"Akinlade, O. O.",AGT,lecturer,PBE,INVIGILATOR
+LEC 154,"Akinlade, S. O. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 155,"Akinleke, W. O. Dr.",GNS,lecturer,PBE,SUPERVISOR
+LEC 156,"Akinleke, Y. O. Mrs.",MKT,lecturer,PBE,INVIGILATOR
+LEC 157,"Akinode, J. L. ",CS,lecturer,CBE,INVIGILATOR
+LEC 158,"Akinola, A. O. ",AGT,lecturer,PBE,INVIGILATOR
+LEC 159,"Akinola, G. A.QS. ( Mrs.)",QS,lecturer,PBE,INVIGILATOR
+LEC 160,"Akinpelu, O. O.",ABE,lecturer,PBE,INVIGILATOR
+LEC 161,"Akinpelu, Y. O. ",AC,lecturer,PBE,INVIGILATOR
+LEC 162,"Akinrinde, I",FT,lecturer,PBE,INVIGILATOR
+LEC 163,"Akinseinde, O. A. ",QS,lecturer,PBE,INVIGILATOR
+LEC 164,"Akintade, J. O. Engr.",ABE,lecturer,PBE,INVIGILATOR
+LEC 165,"Akintayo, A. A.",INS,lecturer,PBE,INVIGILATOR
+LEC 166,Akintola O. M.,EE,lecturer,PBE,INVIGILATOR
+LEC 167,"Akintola, E. M. Miss",OTM,lecturer,PBE,INVIGILATOR
+LEC 168,"Akintola,O.M.",EE,lecturer,PBE,INVIGILATOR
+LEC 169,"Akintoye, R. O. Mrs.",AC,lecturer,PBE,INVIGILATOR
+LEC 170,"Akintunde, M.O.",AC,lecturer,PBE,INVIGILATOR
+LEC 171,"Akinyemi, D. S. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 172,"Akpecheme, A. R. Mrs.",MT,lecturer,PBE,INVIGILATOR
+LEC 173,"Alaba, K. E. Mrs.",NUD,lecturer,PBE,INVIGILATOR
+LEC 174,"Alabi, I. O.",LIS,lecturer,PBE,INVIGILATOR
+LEC 175,"Alabi, N. O. ",MS,lecturer,CBE,INVIGILATOR
+LEC 176,"Alabi-Akugbe, S. O. Mrs.",ARC,lecturer,PBE,INVIGILATOR
+LEC 177,"Aladelusi, K. B. ",BF,lecturer,PBE,INVIGILATOR
+LEC 178,"Aladetola, O.D.",EE,lecturer,PBE,INVIGILATOR
+LEC 179,"Alagamba, E. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 180,"Alausa, O. A.",SG,lecturer,PBE,INVIGILATOR
+LEC 181,"Alausa, W. S. Engr.",CTE,lecturer,CBE,SUPERVISOR
+LEC 182,"Alawode, A. J. ",CS,lecturer,CBE,SUPERVISOR
+LEC 183,Alhassan Ewuoso,BA,lecturer,PBE,INVIGILATOR
+LEC 184,"Aliu, A. A. ",MKT,lecturer,PBE,INVIGILATOR
+LEC 185,"Aliu, O. H.",CTE,lecturer,CBE,INVIGILATOR
+LEC 186,"Alokun-Adesanya, A. O. Miss",FT,lecturer,PBE,INVIGILATOR
+LEC 187,"Alonge, O. R.",BT,lecturer,PBE,INVIGILATOR
+LEC 188,"Alu, A. N. Miss",GNS,lecturer,PBE,INVIGILATOR
+LEC 189,"Alugbele, O. A. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 190,"Aluko, O. O. Arc.  Dr.",ARC,lecturer,PBE,SUPERVISOR
+LEC 191,"Amori, O. M. Miss",BA,lecturer,PBE,INVIGILATOR
+LEC 192,"Amos, O. E. Miss",ARD,lecturer,PBE,INVIGILATOR
+LEC 193,"Amuda, A. O. ",ARC,lecturer,PBE,INVIGILATOR
+LEC 194,"Amusa, N. A.",BF,lecturer,PBE,INVIGILATOR
+LEC 195,"Amusa, R. A. Dr.",SLT,lecturer,PBE,SUPERVISOR
+LEC 196,"Amusan, O. M.",BA,lecturer,PBE,INVIGILATOR
+LEC 197,"Aneke, F. O. Mrs.",HMT,lecturer,PBE,INVIGILATOR
+LEC 198,"Arasanmi, P.K.",GNS,lecturer,PBE,INVIGILATOR
+LEC 199,"Are, S. O. ",MS,lecturer,CBE,INVIGILATOR
+LEC 200,"Arije, K. D. ",BF,lecturer,PBE,INVIGILATOR
+LEC 201,"Arowolo, P. O. ",CS,lecturer,CBE,INVIGILATOR
+LEC 202,"Ashaolu, T. A. Dr.",EMV,lecturer,PBE,SUPERVISOR
+LEC 203,"Asogba, S. T. ",EE,lecturer,PBE,INVIGILATOR
+LEC 204,"Atulomah, B. C. Dr. ( Mrs.)",LIS,lecturer,PBE,SUPERVISOR
+LEC 205,"Awe, E. A.",BT,lecturer,PBE,INVIGILATOR
+LEC 206,"Awofeso, F.E.Mrs",CS,lecturer,CBE,INVIGILATOR
+LEC 207,"Awolesi, J. A.",QS,lecturer,PBE,INVIGILATOR
+LEC 208,"Awolola, O. O. Engr.  Dr.",ME,lecturer,PBE,SUPERVISOR
+LEC 209,"Awosanya, A. O.",CS,lecturer,CBE,INVIGILATOR
+LEC 210,"Awosanya, O.O.",BF,lecturer,PBE,INVIGILATOR
+LEC 211,"Ayegbusi, O. A. Mrs.",CTE,lecturer,CBE,INVIGILATOR
+LEC 212,"Ayelaagbe, N. A.Mrs",GNS,lecturer,PBE,INVIGILATOR
+LEC 213,"Ayelagbe, J.A.",PA,lecturer,PBE,INVIGILATOR
+LEC 214,"Ayo-Balogun, A. O. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 215,"Ayodele, A. E.",CS,lecturer,CBE,INVIGILATOR
+LEC 216,"Ayoola, M. J. Miss",MSC,lecturer,PBE,INVIGILATOR
+LEC 217,Ayotunde,TAX,lecturer,PBE,INVIGILATOR
+LEC 218,"Babailo, Y. A. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 219,"Babalola, K. G. ",EMV,lecturer,PBE,INVIGILATOR
+LEC 220,"Babalola, S. O. ",LIS,lecturer,PBE,INVIGILATOR
+LEC 221,"Babarinde, B. F. Engr. ",ME,lecturer,PBE,INVIGILATOR
+LEC 222,"Babatola, O. M. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 223,"Babatunde, R. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 224,"Babayemi, D.I.  Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 225,"Bada, O. A. Mrs.",CS,lecturer,CBE,INVIGILATOR
+LEC 226,"Bada, O. T.",BF,lecturer,PBE,INVIGILATOR
+LEC 227,"Badru, J. O.",MS,lecturer,CBE,INVIGILATOR
+LEC 228,"Bako, Y. A. Dr. ",BA,lecturer,PBE,SUPERVISOR
+LEC 229,"Bako, Z. F. Mrs.",MKT,lecturer,PBE,INVIGILATOR
+LEC 230,"Balogun, A. B.",EE,lecturer,PBE,INVIGILATOR
+LEC 231,"Balogun, B .A.",ME,lecturer,PBE,INVIGILATOR
+LEC 232,"Balogun, M. O. Engr.(Mrs).",CE,lecturer,PBE,INVIGILATOR
+LEC 233,"Balogun, S. B. ",AC,lecturer,PBE,INVIGILATOR
+LEC 234,"Bamidele, E. O.Bl Dr.  Dr.",BT,lecturer,PBE,SUPERVISOR
+LEC 235,"Bamidele, J. O. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 236,"Bamiro, T. O.",PA,lecturer,PBE,INVIGILATOR
+LEC 237,"Banjo, A. O. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 238,"Bankole, O. A. ",BA,lecturer,PBE,INVIGILATOR
+LEC 239,"Bankole, O. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 240,"Basiru, K. T.QS.",QS,lecturer,PBE,INVIGILATOR
+LEC 241,"Bello, S. B.  Mrs.",AC,lecturer,PBE,INVIGILATOR
+LEC 242,"Bisirodipe, O. H. ",ARC,lecturer,PBE,INVIGILATOR
+LEC 243,"Bitrus, B. I. ",EE,lecturer,PBE,INVIGILATOR
+LEC 244,"Bolanle, Y. I. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 245,"Buoye, A. P. ",CS,lecturer,CBE,SUPERVISOR
+LEC 246,"Busari, I. A. ",AC,lecturer,PBE,INVIGILATOR
+LEC 247,"Chapi, J. U.",ROB,lecturer,PBE,INVIGILATOR
+LEC 248,"Coker, T. A.",AGT,lecturer,PBE,INVIGILATOR
+LEC 249,"Dada, D. A. Engr.",ME,lecturer,PBE,INVIGILATOR
+LEC 250,"Dada, E. O. Miss",LT,lecturer,PBE,INVIGILATOR
+LEC 251,"Dawodu, A. O.",LT,lecturer,PBE,INVIGILATOR
+LEC 252,"Dawodu, H. O. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 253,"Degboro, O. D. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 254,"Dokunmu, O. O. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 255,"Dosunmu, A .A.",CS,lecturer,CBE,INVIGILATOR
+LEC 256,Duduyemi,MSC,lecturer,PBE,INVIGILATOR
+LEC 257,"Durojaiye, O. P. Dr.",MS,lecturer,CBE,SUPERVISOR
+LEC 258,"Durowaiye, A. D.",OTM,lecturer,PBE,INVIGILATOR
+LEC 259,"Durowaiye, O. O. Miss",TAX,lecturer,PBE,INVIGILATOR
+LEC 260,"Edeh, E. B. Miss",AC,lecturer,PBE,INVIGILATOR
+LEC 261,"Edun, O. M. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 262,"Egbeyemi, T. A. ",LIS,lecturer,PBE,INVIGILATOR
+LEC 263,"Elesin, O. G.Tpl.",URP,lecturer,PBE,INVIGILATOR
+LEC 264,"Enehizena, A. O.",OTM,lecturer,PBE,INVIGILATOR
+LEC 265,"Enemaku, L. E. Engr.",ABE,lecturer,PBE,INVIGILATOR
+LEC 266,"Evavoawe, F. O.",WEC,lecturer,PBE,INVIGILATOR
+LEC 267,"Ewuoso, H. I.",BA,lecturer,PBE,INVIGILATOR
+LEC 268,"Eze, B. E. Engr. ( Mrs.)",CTE,lecturer,CBE,SUPERVISOR
+LEC 269,"Ezekiel, E. I. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 270,"Ezekiel, I. D.",MS,lecturer,CBE,INVIGILATOR
+LEC 271,"Fabi, J. K. Dr. (QS)",QS,lecturer,PBE,SUPERVISOR
+LEC 272,"Fadare, S. A. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 273,"Fafioye, A. O. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 274,"Fagbuaro, O. E. ",EE,lecturer,PBE,INVIGILATOR
+LEC 275,"Fagoyinbo, O. T. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 276,"Fakeye, J .O.",EE,lecturer,PBE,INVIGILATOR
+LEC 277,"Fakeye, O. O. ",MSC,lecturer,PBE,INVIGILATOR
+LEC 278,"Falola, F. O.",AC,lecturer,PBE,INVIGILATOR
+LEC 279,"Falola, O. F.",TAX,lecturer,PBE,INVIGILATOR
+LEC 280,"Famudehin, P. O.",EMV,lecturer,PBE,INVIGILATOR
+LEC 281,"Fantola, F. O.",GNS,lecturer,PBE,INVIGILATOR
+LEC 282,"Faparusi, F. T. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 283,"Farotimi, A. O. ",URP,lecturer,PBE,INVIGILATOR
+LEC 284,"Fasakin, C. D. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 285,"Fasasi, T. A. Engr.",ME,lecturer,PBE,INVIGILATOR
+LEC 286,"Fatogun, O. I. ",AC,lecturer,PBE,INVIGILATOR
+LEC 287,"Fatoki, O. J. ",AC,lecturer,PBE,INVIGILATOR
+LEC 288,"Fatunmbi, E. O. Dr.",MS,lecturer,CBE,SUPERVISOR
+LEC 289,"Folalu, A. A. Mrs.",HMT,lecturer,PBE,INVIGILATOR
+LEC 290,"Folayan, B. J. Dr. ",MSC,lecturer,PBE,SUPERVISOR
+LEC 291,"Gabriel, G. E.",NUD,lecturer,PBE,INVIGILATOR
+LEC 292,"Ganiu, Wasiu",ARD,lecturer,PBE,INVIGILATOR
+LEC 293,"Hammed, H. M. ",CS,lecturer,CBE,SUPERVISOR
+LEC 294,"Hammed, M. ",AC,lecturer,PBE,INVIGILATOR
+LEC 295,"Hammed,H. K.",ME,lecturer,PBE,INVIGILATOR
+LEC 296,"Hussaini, P. M.Bl Dr.",BT,lecturer,PBE,SUPERVISOR
+LEC 297,"Ibidapo-Obe, E. O. Mrs.",AGT,lecturer,PBE,INVIGILATOR
+LEC 298,"Ibikunle, C. D. Miss",GNS,lecturer,PBE,INVIGILATOR
+LEC 299,"Ibrahim, G. W. Engr. ",ME,lecturer,PBE,INVIGILATOR
+LEC 300,"Ibrahim, Y. K.",BA,lecturer,PBE,INVIGILATOR
+LEC 301,"Idakwo, O. V. Dr.",GNS,lecturer,PBE,SUPERVISOR
+LEC 302,"Idiong, O. E.",EE,lecturer,PBE,INVIGILATOR
+LEC 303,"Idowu, M. T. ",PA,lecturer,PBE,INVIGILATOR
+LEC 304,"Idowu, O. G. ",TAX,lecturer,PBE,INVIGILATOR
+LEC 305,"Ifenowo, B. O. ",BA,lecturer,PBE,INVIGILATOR
+LEC 306,"Iganyi, M. O. Miss",BF,lecturer,PBE,INVIGILATOR
+LEC 307,"Ilelaboye, N. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 308,"Ilesanmi, I. O. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 309,"Irivboje, O. A. Mrs.",AGT,lecturer,PBE,INVIGILATOR
+LEC 310,"Iro-Idoro, C. B. Dr. ( Mrs.)",OTM,lecturer,PBE,SUPERVISOR
+LEC 311,"Isiaka, N. A.",BF,lecturer,PBE,INVIGILATOR
+LEC 312,"Iwole, A. Y.",GNS,lecturer,PBE,INVIGILATOR
+LEC 313,"Jaiyeoba, A. O. ",TAX,lecturer,PBE,INVIGILATOR
+LEC 314,"Jaiyeoba, O. O. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 315,"Jayeoba, B. O.",SLT,lecturer,PBE,INVIGILATOR
+LEC 316,"Jegede, O. W. Mrs.",MKT,lecturer,PBE,INVIGILATOR
+LEC 317,"Jesusina, T. I. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 318,"Jiboku, F. J.",CS,lecturer,CBE,INVIGILATOR
+LEC 319,"Jiboku, O. A. Dr.",GNS,lecturer,PBE,SUPERVISOR
+LEC 320,"Jiboku, O. O. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 321,"Jimoh, I. B. ",OTM,lecturer,PBE,INVIGILATOR
+LEC 322,"Jimoh, T. A. ",OTM,lecturer,PBE,INVIGILATOR
+LEC 323,"Jolaade, I. A. ",OTM,lecturer,PBE,INVIGILATOR
+LEC 324,"Jonathan, M. B. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 325,"Joseph, E. A. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 326,"Joseph, O. O. Engr.",ME,lecturer,PBE,INVIGILATOR
+LEC 327,"Kazeem, G. A. ",BA,lecturer,PBE,INVIGILATOR
+LEC 328,"Kehinde, K. O. Mrs. ",OTM,lecturer,PBE,INVIGILATOR
+LEC 329,"Kehinde, O. E. ",URP,lecturer,PBE,INVIGILATOR
+LEC 330,"Kehinde,O. O.",GNS,lecturer,PBE,INVIGILATOR
+LEC 331,"Kolawole, F. H.",BF,lecturer,PBE,INVIGILATOR
+LEC 332,"Kolawole, O. O. Dr.",LT,lecturer,PBE,SUPERVISOR
+LEC 333,"Korede, A. T.",AC,lecturer,PBE,INVIGILATOR
+LEC 334,"Kosemani, B. S.",ABE,lecturer,PBE,INVIGILATOR
+LEC 335,"Kumoye, D. E. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 336,"Lasisi, A. L.",URP,lecturer,PBE,INVIGILATOR
+LEC 337,"Lawal, A. A.",SLT,lecturer,PBE,INVIGILATOR
+LEC 338,"Lawal, A. G. ",ME,lecturer,PBE,INVIGILATOR
+LEC 339,"Lawal, A. N.",CE,lecturer,PBE,INVIGILATOR
+LEC 340,"Lawal, M. O. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 341,"Lawal, R. A. Miss",AGT,lecturer,PBE,INVIGILATOR
+LEC 342,"Lawal, S. A.",ABE,lecturer,PBE,INVIGILATOR
+LEC 343,"Lawanson, A. A. Dr. ",AGT,lecturer,PBE,SUPERVISOR
+LEC 344,"Leramo, O. O. ",AGT,lecturer,PBE,INVIGILATOR
+LEC 345,"Makanjuola, J. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 346,"Makanjuola, O. M. ",FT,lecturer,PBE,INVIGILATOR
+LEC 347,"Makinde, W. A.",PA,lecturer,PBE,INVIGILATOR
+LEC 348,"Maliki, T. O. ",BA,lecturer,PBE,INVIGILATOR
+LEC 349,"Maliki-Sadiq, T. O. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 350,"Mathew, T. O. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 351,"Mbamaluikem, P. O. ",EE,lecturer,PBE,INVIGILATOR
+LEC 352,"Medewase, F. C. ",LIS,lecturer,PBE,INVIGILATOR
+LEC 353,"Mohammed, A. O. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 354,"Mohammed, S. R. Dr.",AC,lecturer,PBE,SUPERVISOR
+LEC 355,"Mosaku, A. O. ",EE,lecturer,PBE,INVIGILATOR
+LEC 356,"Musa, D. ",ME,lecturer,PBE,INVIGILATOR
+LEC 357,"Musa, I. A.",SLT,lecturer,PBE,INVIGILATOR
+LEC 358,"Musa, J. O. ",HMT,lecturer,PBE,INVIGILATOR
+LEC 359,"Musa, P. O.",PA,lecturer,PBE,INVIGILATOR
+LEC 360,"Mustapha, O. M. ",MSC,lecturer,PBE,INVIGILATOR
+LEC 361,"Nafiu, N.",INS,lecturer,PBE,INVIGILATOR
+LEC 362,"Nnebue, W. M.TPL",URP,lecturer,PBE,INVIGILATOR
+LEC 363,"Noah, A. A. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 364,"Nwaobasi, U. N. ",QS,lecturer,PBE,INVIGILATOR
+LEC 365,"Nwaokocha,R.C. Mrs.",EE,lecturer,PBE,INVIGILATOR
+LEC 366,"Nweke, L. N.",LIS,lecturer,PBE,INVIGILATOR
+LEC 367,"Nwokorie, E. C. ",HMT,lecturer,PBE,INVIGILATOR
+LEC 368,"Obafunmiso, C. K. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 369,"Obarayi, Z. O. Mrs.",CS,lecturer,CBE,INVIGILATOR
+LEC 370,"Obi, C. A. Miss",URP,lecturer,PBE,INVIGILATOR
+LEC 371,"Obi, G. C.",AGT,lecturer,PBE,INVIGILATOR
+LEC 372,"Obun-Andy, M. K. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 373,"Odede, O. M.",WEC,lecturer,PBE,INVIGILATOR
+LEC 374,"Odenike, T. O. ",MSC,lecturer,PBE,INVIGILATOR
+LEC 375,"Oderinde, A. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 376,"Oderinde, A. A. ",AC,lecturer,PBE,INVIGILATOR
+LEC 377,"Oderinde, M. O. ",EE,lecturer,PBE,INVIGILATOR
+LEC 378,"Oderinde, O. A.",OTM,lecturer,PBE,INVIGILATOR
+LEC 379,"Oderinde, S. A. ",CE,lecturer,PBE,INVIGILATOR
+LEC 380,"Odetunde, M.W.",CE,lecturer,PBE,INVIGILATOR
+LEC 381,"Odeyemi, B. A. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 382,"Odeyemi, O. A.",MCE,lecturer,PBE,INVIGILATOR
+LEC 383,"Odeyemi, O. B. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 384,"Odubanjo, A. O. Mrs.",MKT,lecturer,PBE,INVIGILATOR
+LEC 385,"Odumade-Salako, O. A. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 386,"Odunewu, K. O. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 387,"Oduneye, B. A.",BF,lecturer,PBE,INVIGILATOR
+LEC 388,"Odunlami, S. A. Dr.  Engr.",ME,lecturer,PBE,SUPERVISOR
+LEC 389,"Odunnaike, J. S. ",EMV,lecturer,PBE,INVIGILATOR
+LEC 390,"Oduntan, O. E. Dr. ( Mrs.)",CS,lecturer,CBE,SUPERVISOR
+LEC 391,"Odusanya, T. A.",HMT,lecturer,PBE,INVIGILATOR
+LEC 392,"Oduwobi, E. R. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 393,"Oduwobi, O. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 394,"Oduwole, A. S. ",SG,lecturer,PBE,INVIGILATOR
+LEC 395,"Oduwole, F. R. Mrs.",AC,lecturer,PBE,INVIGILATOR
+LEC 396,"Oginni, I. M. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 397,"Ogunbadejo, O. A. Miss",LIS,lecturer,PBE,INVIGILATOR
+LEC 398,"Ogunbela, G. K.",PA,lecturer,PBE,INVIGILATOR
+LEC 399,"Ogunbi, O. J.",BF,lecturer,PBE,INVIGILATOR
+LEC 400,"Ogundare, A. G.",LT,lecturer,PBE,INVIGILATOR
+LEC 401,Ogundeyi O.D.,BF,lecturer,PBE,INVIGILATOR
+LEC 402,"Ogunfayo, I. K. Engr. (Mrs) ",REC,lecturer,PBE,INVIGILATOR
+LEC 403,"Ogunjimi, M. O.",MT,lecturer,PBE,INVIGILATOR
+LEC 404,"Ogunlade, C. B. Engr. ",ABE,lecturer,PBE,INVIGILATOR
+LEC 405,"Ogunmodede, A. S. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 406,"Ogunniyi, O. J.",MCE,lecturer,PBE,INVIGILATOR
+LEC 407,"Ogunro, V. A.",BT,lecturer,PBE,INVIGILATOR
+LEC 408,"Ogunsanwo, A. O. ",BA,lecturer,PBE,INVIGILATOR
+LEC 409,"Ogunseitan, T. O. ",AGT,lecturer,PBE,INVIGILATOR
+LEC 410,"Ogunseye, J. O. ",CS,lecturer,CBE,INVIGILATOR
+LEC 411,"Ogunseye, T. O.",BF,lecturer,PBE,INVIGILATOR
+LEC 412,"Oguntade, B. K. Dr. ( Mrs.)",SLT,lecturer,PBE,SUPERVISOR
+LEC 413,"Oguntimehin, A. S.Arc.",AGT,lecturer,PBE,INVIGILATOR
+LEC 414,"Oguntolu, D. F. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 415,"Ogunyemi, O. J. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 416,"Ogunyemi, O. O. ",HMT,lecturer,PBE,INVIGILATOR
+LEC 417,"Ogunyinka, M. A. Mrs.",EMV,lecturer,PBE,INVIGILATOR
+LEC 418,"Ogunyinka, O. I. ",CTE,lecturer,CBE,INVIGILATOR
+LEC 419,"Ojelabi, E. T. Miss",ARC,lecturer,PBE,INVIGILATOR
+LEC 420,"Ojelade, I. A. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 421,"Ojenike, O. T.",MS,lecturer,CBE,INVIGILATOR
+LEC 422,"Ojetunde, S.G.",ME,lecturer,PBE,INVIGILATOR
+LEC 423,"Ojo, B. A. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 424,"Ojo, G. O.",MS,lecturer,CBE,INVIGILATOR
+LEC 425,"Ojo, G. O.",INS,lecturer,PBE,INVIGILATOR
+LEC 426,"Ojo, L. A. Mrs.",TPM,lecturer,PBE,INVIGILATOR
+LEC 427,"Ojo, O. O.Tpl.  Dr.",URP,lecturer,PBE,SUPERVISOR
+LEC 428,"Ojochegbe, A. T.",SG,lecturer,PBE,INVIGILATOR
+LEC 429,"Ojuawo, L. D.",EMV,lecturer,PBE,INVIGILATOR
+LEC 430,"Ojuawo, O. O. ",CS,lecturer,CBE,SUPERVISOR
+LEC 431,"Okafor, B. O.",QS,lecturer,PBE,INVIGILATOR
+LEC 432,"Okafor, J. C. Dr.  (Ms)",NUD,lecturer,PBE,SUPERVISOR
+LEC 433,"Okedairo, O. O.",MT,lecturer,PBE,INVIGILATOR
+LEC 434,"Okeke, H. S.",EE,lecturer,PBE,INVIGILATOR
+LEC 435,"Okeze, R. C. Mrs.",MCE,lecturer,PBE,INVIGILATOR
+LEC 436,"Okoro, N. O.",MS,lecturer,CBE,INVIGILATOR
+LEC 437,"Okoro, P. E.",LT,lecturer,PBE,INVIGILATOR
+LEC 438,"Okosodo, Ehi, E. F. Dr.",LT,lecturer,PBE,SUPERVISOR
+LEC 439,"Okoye, C. U. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 440,"Okparavero, O. O. Miss",AGT,lecturer,PBE,INVIGILATOR
+LEC 441,"Okusanya, M. A. Engr.",ABE,lecturer,PBE,INVIGILATOR
+LEC 442,"Okusanya, P. O. Dr. ",AGT,lecturer,PBE,SUPERVISOR
+LEC 443,"Okuwoga, B. A. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 444,"Okwara, C. C. ",BF,lecturer,PBE,INVIGILATOR
+LEC 445,"Olabimtan, R. O. Mrs.",BA,lecturer,PBE,INVIGILATOR
+LEC 446,"Olabode, O. B. Mrs.",PA,lecturer,PBE,INVIGILATOR
+LEC 447,"Olabode, O. R. ",EE,lecturer,PBE,INVIGILATOR
+LEC 448,"Oladele, O.",PA,lecturer,PBE,INVIGILATOR
+LEC 449,"Oladele, S. O.",LIS,lecturer,PBE,INVIGILATOR
+LEC 450,"Olagoke-Salami, S. O.ESV.",EMV,lecturer,PBE,INVIGILATOR
+LEC 451,"Olaide, A. A.  Mrs.",PA,lecturer,PBE,INVIGILATOR
+LEC 452,"Olaifa, B. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 453,"Olaiju, A. O. Dr.",MS,lecturer,CBE,SUPERVISOR
+LEC 454,"Olaiya, O. O. Engr. ",CTE,lecturer,CBE,SUPERVISOR
+LEC 455,"Olakanmi, O. L. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 456,"Olaleye, O. A. Dr.",MT,lecturer,PBE,SUPERVISOR
+LEC 457,"Olaniran, M. O.",EMV,lecturer,PBE,INVIGILATOR
+LEC 458,"Olaniran-Akinyele, O. F. Mrs.",BF,lecturer,PBE,INVIGILATOR
+LEC 459,"Olaoye, J. O. ",CE,lecturer,PBE,INVIGILATOR
+LEC 460,"Olaoye, O. A. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 461,"Olaoye, S.",AC,lecturer,PBE,INVIGILATOR
+LEC 462,"Olapade, O. J.",BA,lecturer,PBE,INVIGILATOR
+LEC 463,"Olapeju, O. O. Dr. Tpl.",URP,lecturer,PBE,SUPERVISOR
+LEC 464,"Olapeju, T. I. Mrs. ",URP,lecturer,PBE,INVIGILATOR
+LEC 465,"Olarewaju, A. J. Dr. ",CE,lecturer,PBE,SUPERVISOR
+LEC 466,"Olaseni, J. K.",MKT,lecturer,PBE,INVIGILATOR
+LEC 467,"Olasina, J. R. Engr.",CTE,lecturer,CBE,SUPERVISOR
+LEC 468,"Olasunkanmi, A. A. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 469,"Olatunde, V. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 470,"Olatunji, O. M. Mrs.",TPM,lecturer,PBE,INVIGILATOR
+LEC 471,"Olatunji, O. T. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 472,"Olatunji-Aguda, G. E. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 473,"Olawoore, O. O.",AC,lecturer,PBE,INVIGILATOR
+LEC 474,"Olayiwola, H. O. ",BF,lecturer,PBE,INVIGILATOR
+LEC 475,"Olayiwola, J. O. Mrs. ",CTE,lecturer,CBE,SUPERVISOR
+LEC 476,"Oloruko-Oba, A. A.",CE,lecturer,PBE,INVIGILATOR
+LEC 477,"Olorunsogbon, A. M. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 478,"Oloruntoba, A. S. ",CS,lecturer,CBE,SUPERVISOR
+LEC 479,"Olowofela, S. S. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 480,"Olowofila, I. O. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 481,"Olowoyo, O. F. Miss",SLT,lecturer,PBE,INVIGILATOR
+LEC 482,"Oloyede, E. O. ",EE,lecturer,PBE,INVIGILATOR
+LEC 483,"Olubodun, M. E.Arc.",ARC,lecturer,PBE,INVIGILATOR
+LEC 484,"Olufayo, O. O. Mrs.",AGT,lecturer,PBE,INVIGILATOR
+LEC 485,"Olugbemi, O. S.",OTM,lecturer,PBE,INVIGILATOR
+LEC 486,"Oluigbo, C. V.",WEC,lecturer,PBE,INVIGILATOR
+LEC 487,"Olumomi, A. C. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 488,"Oluseye, A. B. Dr.",MSC,lecturer,PBE,SUPERVISOR
+LEC 489,"Oluseye, A. R. Mrs.",LT,lecturer,PBE,INVIGILATOR
+LEC 490,"Olusona, E. O. ",CE,lecturer,PBE,INVIGILATOR
+LEC 491,"Oluwagbayide, S. D. Dr. ",ABE,lecturer,PBE,SUPERVISOR
+LEC 492,"Oluwaniyi, A. M. ",BA,lecturer,PBE,INVIGILATOR
+LEC 493,"Oluwole, T. G.ESV.",EMV,lecturer,PBE,INVIGILATOR
+LEC 494,"Omisande, L. A. ",CE,lecturer,PBE,INVIGILATOR
+LEC 495,"Omojaro, A. O.",BA,lecturer,PBE,INVIGILATOR
+LEC 496,"Omolola, A. S. Engr.",EE,lecturer,PBE,INVIGILATOR
+LEC 497,"Omoniyi, C. O. Mrs.",FT,lecturer,PBE,INVIGILATOR
+LEC 498,"Omoniyi, O. G.",ARD,lecturer,PBE,INVIGILATOR
+LEC 499,"Omopariola, S. S. Engr.",CE,lecturer,PBE,INVIGILATOR
+LEC 500,"Omotayo, E. A. Dr. ( Mrs.)",GNS,lecturer,PBE,SUPERVISOR
+LEC 501,"Omotayo, O. S. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 502,"Omotola, O. E.",MS,lecturer,CBE,INVIGILATOR
+LEC 503,"Omotosho, A. O. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 504,Omotunde,SG,lecturer,PBE,INVIGILATOR
+LEC 505,"Omowunmi, J. O.",PA,lecturer,PBE,INVIGILATOR
+LEC 506,"Omoyeni, O. C. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 507,"Onigbara, V. B.",WEC,lecturer,PBE,INVIGILATOR
+LEC 508,"Onipede, F. M.",GNS,lecturer,PBE,INVIGILATOR
+LEC 509,"Onwuasoanya, N. C. ",CTE,lecturer,CBE,INVIGILATOR
+LEC 510,"Orelaja, A. B. Mrs.",LIS,lecturer,PBE,INVIGILATOR
+LEC 511,"Oretan, I. L. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 512,"Orija, J. I. Dr.",OTM,lecturer,PBE,SUPERVISOR
+LEC 513,"Orjime, A. N. Miss",LIS,lecturer,PBE,INVIGILATOR
+LEC 514,"Orjinta, H. I.",PA,lecturer,PBE,INVIGILATOR
+LEC 515,"Oseni, K. K.",BF,lecturer,PBE,INVIGILATOR
+LEC 516,"Oshinfade, B. G.",SLT,lecturer,PBE,INVIGILATOR
+LEC 517,"Osi, A. A. Mrs. ",NUD,lecturer,PBE,INVIGILATOR
+LEC 518,"Osuagwu, D. C. Miss",MT,lecturer,PBE,INVIGILATOR
+LEC 519,"Osunmakinde, A. M.",AGT,lecturer,PBE,INVIGILATOR
+LEC 520,"Oteoda, A. D. ",INS,lecturer,PBE,INVIGILATOR
+LEC 521,"Owodolu, T. A",MCE,lecturer,PBE,INVIGILATOR
+LEC 522,"Oyebolu, I. D. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 523,"Oyede, R. T. Dr.",SLT,lecturer,PBE,SUPERVISOR
+LEC 524,"Oyedeji, A. O. Dr.",SLT,lecturer,PBE,SUPERVISOR
+LEC 525,"Oyelekan, A. A. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 526,"Oyesile, S. O.Tpl.",URP,lecturer,PBE,INVIGILATOR
+LEC 527,"Oyesomo, O. C.",EMV,lecturer,PBE,INVIGILATOR
+LEC 528,"Oyetayo, O. T. ",MSC,lecturer,PBE,INVIGILATOR
+LEC 529,"Oyewole, A. M. Surv.",SG,lecturer,PBE,SUPERVISOR
+LEC 530,"Oyewumi, T. S.",ARD,lecturer,PBE,INVIGILATOR
+LEC 531,"Phillips, O. O. ",GNS,lecturer,PBE,INVIGILATOR
+LEC 532,"Pikuda, O. O. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 533,"Popoola, A. O. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 534,"Popoola, S. O.",ME,lecturer,PBE,INVIGILATOR
+LEC 535,"Raji, O. A. ",INS,lecturer,PBE,INVIGILATOR
+LEC 536,"Raji, O. K. Engr. ( Mrs.)",ME,lecturer,PBE,INVIGILATOR
+LEC 537,"Raji, R. A. ",BA,lecturer,PBE,INVIGILATOR
+LEC 538,"Remi-Esan, I. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 539,"Sadiku, M. K. Bldr",BT,lecturer,PBE,INVIGILATOR
+LEC 540,"Sadiq, A. I. ",TAX,lecturer,PBE,INVIGILATOR
+LEC 541,"Saka, K. A.",BF,lecturer,PBE,INVIGILATOR
+LEC 542,"Salako, F. O. ",TPM,lecturer,PBE,INVIGILATOR
+LEC 543,"Salako, O. A. ",PA,lecturer,PBE,INVIGILATOR
+LEC 544,"Salami, S.",OTM,lecturer,PBE,INVIGILATOR
+LEC 545,"Sangosina, M. I. ",AGT,lecturer,PBE,INVIGILATOR
+LEC 546,"Sanni, E. O.",ME,lecturer,PBE,INVIGILATOR
+LEC 547,"Sarumi, M. A. Miss",FT,lecturer,PBE,INVIGILATOR
+LEC 548,"Sekoni, R. T. ",CE,lecturer,PBE,INVIGILATOR
+LEC 549,"Seyi-Gbangbayawu, P. S. ",ARD,lecturer,PBE,INVIGILATOR
+LEC 550,"Shittu, A. I. Mrs.",SLT,lecturer,PBE,INVIGILATOR
+LEC 551,"Shomoye, I. A. ",MS,lecturer,CBE,INVIGILATOR
+LEC 552,"Sikiru, O. A.",MS,lecturer,CBE,INVIGILATOR
+LEC 553,"Sodeinde, V. O.",CS,lecturer,CBE,INVIGILATOR
+LEC 554,"Sodiya, O. O.",URP,lecturer,PBE,INVIGILATOR
+LEC 555,"Sokale, A. I. Mrs.",LT,lecturer,PBE,INVIGILATOR
+LEC 556,"Sokenu, J. S.",LIS,lecturer,PBE,INVIGILATOR
+LEC 557,"Solanke, A. S. ",LT,lecturer,PBE,INVIGILATOR
+LEC 558,"Solola, A. O.",MKT,lecturer,PBE,INVIGILATOR
+LEC 559,"Sonde, E. O",GNS,lecturer,PBE,INVIGILATOR
+LEC 560,"Soneye, O. O.",MT,lecturer,PBE,INVIGILATOR
+LEC 561,"Sosanya, P. A. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 562,"Sotayo, F. O.",SG,lecturer,PBE,INVIGILATOR
+LEC 563,"Soyemi, O. B. Engr. ( Dr.)",CE,lecturer,PBE,SUPERVISOR
+LEC 564,"Soyemi, S. J. Dr. ( Mrs.)",CS,lecturer,CBE,SUPERVISOR
+LEC 565,"Suleiman, A. D.",CTE,lecturer,CBE,INVIGILATOR
+LEC 566,"Sunday, B. D.",WEC,lecturer,PBE,INVIGILATOR
+LEC 567,"Taiwo, A. A. Dr.",BA,lecturer,PBE,SUPERVISOR
+LEC 568,"Taiwo, F. R.",PA,lecturer,PBE,INVIGILATOR
+LEC 569,"Tella, B. O.",MSC,lecturer,PBE,INVIGILATOR
+LEC 570,"Thomas-Kuye, O. A. Mrs.",MSC,lecturer,PBE,INVIGILATOR
+LEC 571,"Tinuoye, O. I.",LT,lecturer,PBE,INVIGILATOR
+LEC 572,"Udoh, U. J. ",EE,lecturer,PBE,INVIGILATOR
+LEC 573,"Uduak, E.",EE,lecturer,PBE,INVIGILATOR
+LEC 574,"Ugochukwu, C. R. Miss",NUD,lecturer,PBE,INVIGILATOR
+LEC 575,"Ugochukwu, S. C. Mrs.",OTM,lecturer,PBE,INVIGILATOR
+LEC 576,"Ukonu, C. U. ",SLT,lecturer,PBE,INVIGILATOR
+LEC 577,"Umar, B. F.",SLT,lecturer,PBE,INVIGILATOR
+LEC 578,"Uwala, V. A.",URP,lecturer,PBE,INVIGILATOR
+LEC 579,"Yinusa, A. A. ",BT,lecturer,PBE,INVIGILATOR
+LEC 580,Yusuf,ME,lecturer,PBE,INVIGILATOR
+LEC 581,"Yusuf, J. A. ",INS,lecturer,PBE,INVIGILATOR
+LEC 582,"Yusuf, S. O. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 583,"Yusuff, K. O. Mrs.",AGT,lecturer,PBE,INVIGILATOR
+LEC 584,"Yusuff, M. A. Mrs.",GNS,lecturer,PBE,INVIGILATOR
+LEC 585,"Idowu, A. O.",MS,lecturer,CBE,INVIGILATOR
+LEC 586,"Bakinde, S. A.",MS,lecturer,CBE,INVIGILATOR
+LEC 587,"Shobanke, E. K.",MS,lecturer,CBE,INVIGILATOR
+LEC 588,"Ogunnusi, O. N.",MS,lecturer,CBE,INVIGILATOR
+LEC 589,"Adenijo, A. O.",GNS,lecturer,PBE,INVIGILATOR
+LEC 590,"Jaiyeola, E. A.",TAX,lecturer,PBE,INVIGILATOR
+LEC 591,"Yinus, A. F.",BT,lecturer,PBE,INVIGILATOR
+LEC 592,"Babatola, I. Y. Miss",AC,lecturer,PBE,INVIGILATOR
+LEC 593,Fagoyinbo D.,MEC,lecturer,PBE,INVIGILATOR
+LEC 594,"Idowu, T.",MEC,lecturer,PBE,INVIGILATOR
+LEC 595,"Chapi, S. P.",MEC,lecturer,PBE,INVIGILATOR
+LEC 596,"Babalola, A. M.",MKT,lecturer,PBE,INVIGILATOR
+LEC 597,"Siyanbola, F. M. Mrs.",MKT,lecturer,PBE,INVIGILATOR
+LEC 598,Gbangbayawu ,GNS,lecturer,PBE,INVIGILATOR
+LEC 599,Adigun D.A,SLT,lecturer,PBE,INVIGILATOR
